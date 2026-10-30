@@ -108,7 +108,7 @@ Hello, LinuxMasterNET!
 
 Codespaces는 무료 사용량 제한이 있으며, 일부 시스템 프로그래밍 기능은 컨테이너 권한에 따라 제한될 수 있습니다.
 
-## 7. 인프런 강의 안내
+## 7. 강의 안내
 
 **LinuxMasterNET 리눅스 실무 교육**
 
