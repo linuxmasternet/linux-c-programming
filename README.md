@@ -73,7 +73,7 @@ cd linux-c-programming
 
 int main(void)
 {
-    printf("Hello, LinuxMasterNET!\n");
+    printf("Hello, Linux C!\n");
     return 0;
 }
 ```
@@ -93,7 +93,7 @@ gcc -Wall -Wextra -o hello hello.c
 실행 결과:
 
 ```text
-Hello, LinuxMasterNET!
+Hello, Linux C!
 ```
 
 ## 6. GitHub Codespaces 활용
